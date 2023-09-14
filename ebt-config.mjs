@@ -1,16 +1,16 @@
 const EbtConfig = {
-  "appName": "EBT-Site",
-  "basePath": "/",
+  "appName": "Site TBA",
+  "basePath": "/site-tba/",
   "homePath": "#/wiki/welcome",
   "content": {
-    "index": "toc",
+    "index": "tdm",
   },
   "footnotes": "Footnotes",
   "privacyLink": "#/wiki/privacy",
-  "monolingual": false,
+  "monolingual": "fr",
   "github": {
-    "account": "sc-voice",
-    "repository": "ebt-site3"
+    "account": "pannabijani",
+    "repository": "site-tba"
   }
 }
 
