@@ -9,7 +9,7 @@ const EbtConfig = {
   "privacyLink": "#/wiki/privacy",
   "monolingual": "fr",
   "github": {
-    "account": "pannabijani",
+    "account": "pannayabijani",
     "repository": "site-tba"
   }
 }
