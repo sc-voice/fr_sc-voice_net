@@ -3,7 +3,7 @@ const EbtConfig = {
   "basePath": "/site-tba/",
   "homePath": "#/wiki/welcome",
   "content": {
-    "index": "tdm",
+    "index": "toc",
   },
   "footnotes": "Footnotes",
   "privacyLink": "#/wiki/privacy",
