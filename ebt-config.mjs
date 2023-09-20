@@ -1,6 +1,6 @@
 const EbtConfig = {
   "appName": "Site-TBA",
-  "basePath": "/pannabijani/",
+  "basePath": "/site-tba/",
   "homePath": "#/wiki/welcome",
   "content": {
     "index": "tdm",
