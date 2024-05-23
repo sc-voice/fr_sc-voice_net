@@ -1,6 +1,6 @@
 const EbtConfig = {
   "appName": "Paññābījāni",
-  "basePath": "/ebt-site/",
+  "basePath": "/",
   "homePath": "#/wiki/welcome",
   "content": {
     "index": "toc",
