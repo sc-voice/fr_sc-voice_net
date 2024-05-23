@@ -1,6 +1,6 @@
 ---
 title: Bienvenu à ${appName}
-description: Site dédié à la traduction et l'étude des Textes Bouddhistes Anciens
+description: Site dédié à l'étude et la traduction des Textes Bouddhistes Anciens
 img: pexels-philippe-donn-1133957.png
 img-alt: Hummingbird reaching to drink nectar from flowers
 category: 1. General
