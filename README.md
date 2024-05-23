@@ -1,1 +1,1 @@
-Site pour l'étude des Textes Bouddhistes Anciens.
+Site dédié à l'étude et la traduction des Textes Bouddhistes Anciens.
