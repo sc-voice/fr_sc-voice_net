@@ -1,6 +1,6 @@
 const EbtConfig = {
   "appName": "Paññābījāni",
-  "basePath": "/site-tba/",
+  "basePath": "/ebt-site/",
   "homePath": "#/wiki/welcome",
   "content": {
     "index": "toc",
@@ -10,7 +10,7 @@ const EbtConfig = {
   "monolingual": "fr",
   "github": {
     "account": "pannabijani",
-    "repository": "site-tba"
+    "repository": "ebt-site"
   }
 }
 
