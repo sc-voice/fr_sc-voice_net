@@ -7,4 +7,4 @@ category: 1. General
 order: 1
 ---
 
-PannaBijani est un site dédié à la traduction et à l'étude des Textes Bouddhistes Anciens, en particulier des suttas (discours doctrinaux du Bouddha et de ses premiers disciples). Il contient de nouvelles traductions françaises des sutta par Noé Ismet. Il contient également diverses informations de références sur les Textes Bouddhistes Anciens.
+Paññābījāni est un site dédié à l'étude et la traduction des Textes Bouddhistes Anciens, en particulier des suttas (discours doctrinaux du Bouddha et de ses premiers disciples). Il contient de nouvelles traductions françaises des sutta par Noé Ismet. Il contient également diverses informations de références sur les Textes Bouddhistes Anciens.
