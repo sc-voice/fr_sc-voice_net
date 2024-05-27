@@ -1,6 +1,6 @@
 ---
 title: Bienvenue à ${appName} !
-description: Paññābījāni est un mot composé en pāḷi signifiant « graines de sagesse ». Il s'agit d'un site dédié à l'étude et la traduction des textes bouddhistes anciens, en particulier des suttas (discours doctrinaux du Bouddha et de ses premiers disciples). Il contient de nouvelles traductions françaises alignées des sutta. Il contient également diverses informations de références sur les textes bouddhistes anciens.
+description: « PaññāBījāni » est un mot composé en pāḷi signifiant « graines de sagesse ». Il s'agit d'un site dédié à l'étude et la traduction des textes bouddhistes anciens, en particulier des suttas (discours doctrinaux du Bouddha et de ses premiers disciples). Il contient de nouvelles traductions françaises alignées des sutta. Il contient également diverses informations de références sur les textes bouddhistes anciens.
 img: pexels-philippe-donn-1133957.png
 img-alt: Hummingbird reaching to drink nectar from flowers
 category: 1. General
