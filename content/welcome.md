@@ -2,7 +2,7 @@
 title: Bienvenue à ${appName} !
 description: « PaññāBījāni » est un mot composé en pāḷi signifiant « graines de sagesse ». C'est une application web dédiée à l'étude et à la traduction des textes bouddhistes anciens, en particulier des suttas (discours doctrinaux du Bouddha et de ses premiers disciples). Elle propose de nouvelles traductions françaises des suttas et contient également diverses informations de référence sur les textes bouddhistes anciens.
 img: pannabijani.png
-img-alt: Hummingbird reaching to drink nectar from flowers
+img-alt: Le logo de PaññāBījāni
 category: 1. General
 order: 1
 ---
