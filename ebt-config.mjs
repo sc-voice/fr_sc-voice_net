@@ -1,5 +1,5 @@
 const EbtConfig = {
-  "appName": "Paññābījāni",
+  "appName": "PaññāBījāni",
   "basePath": "/",
   "homePath": "#/wiki/welcome",
   "content": {
