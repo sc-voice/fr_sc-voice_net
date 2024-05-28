@@ -1,6 +1,6 @@
 ---
 title: Bienvenue à ${appName} !
-description: 
+description: Étude des textes bouddhistes anciens.
 img: pannabijani.png
 img-alt: Le logo de PaññāBījāni
 category: 1. General
