@@ -6,6 +6,8 @@ img-alt: Le logo de FR.SC-Voice.net
 category: 1. General
 order: 1
 ---
+### fr.sc-voice.net
+
 Écrit « Paññābījāni » en pāḷi, ce terme composé signifie « Graines de Sagesse ». 
 
 Ce site est une application web dédiée à l'étude des textes bouddhistes anciens, notamment les suttas, discours doctrinaux du Bouddha et de ses premiers disciples.
