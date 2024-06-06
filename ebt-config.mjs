@@ -1,17 +1,20 @@
 const EbtConfig = {
-  "appName": "Pannabijani",
-  "basePath": "/ebt-site/",
-  "homePath": "#/wiki/welcome",
+  "appName": "fr.sc-voice.net",
+  "basePath": "/",
+  "homePath": "#/wiki/toc",
   "content": {
     "index": "toc",
   },
   "footnotes": "Footnotes",
-  "privacyLink": "#/wiki/privacy",
-  "monolingual": "fr",
   "github": {
-    "account": "pannabijani",
-    "repository": "ebt-site"
-  }
+    "account": "sc-voice",
+    "repository": "fr_sc-voice_net"
+  },
+  "maxPlayMinutes": 30,
+  "monolingual": "fr",
+  "privacyLink": "#/wiki/privacy",
+  //"searchDropdown": 50,
+  "tutorialPath": "#/wiki/tutorial/tutorial",
 }
 
 export default EbtConfig;
