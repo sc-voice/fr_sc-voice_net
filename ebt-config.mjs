@@ -1,6 +1,6 @@
 const EbtConfig = {
   "appName": "fr.sc-voice.net",
-  "basePath": "/fr_sc-voice_net/",
+  "basePath": "/",
   "homePath": "#/wiki/toc",
   "content": {
     "index": "toc",
