@@ -38,7 +38,7 @@
      showgrid="false"
      inkscape:zoom="1"
      inkscape:cx="-2"
-     inkscape:cy="-19"
+     inkscape:cy="221"
      inkscape:window-width="3840"
      inkscape:window-height="2054"
      inkscape:window-x="-11"
@@ -70,50 +70,58 @@
        y="-408.69995"
        transform="scale(1,-1)"
        ry="16.2106" />
-    <ellipse
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.1909;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path43916"
-       cx="141.00191"
-       cy="-248.36116"
-       transform="scale(1,-1)"
-       rx="132.2702"
-       ry="132.18588" />
-    <path
-       d="m 253.14587,250.88306 c 0,-61.96164 -50.23519,-112.1898 -112.19303,-112.1898 -61.963497,0 -112.193083,50.22816 -112.193083,112.1898 0,61.9617 50.229586,112.18981 112.193083,112.18981 61.95784,0 112.19303,-50.22811 112.19303,-112.18981"
-       style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.378;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path1610"
-       inkscape:export-filename="C:\Users\ni\Downloads\annabijani-favicon-2.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600" />
-    <ellipse
-       style="fill:#ff9800;fill-opacity:1;stroke:#ffffff;stroke-width:0.903;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path2205"
-       cx="141.00191"
-       cy="-248.36116"
-       transform="scale(1,-1)"
-       rx="120.11937"
-       ry="120.16215" />
-    <path
-       d="m 212.70025,283.2514 c 29.55169,-38.9171 3.44978,-108.78419 -41.75339,-115.75062 -28.78867,-4.43655 -56.84163,2.94575 -66.05189,33.63142 -3.787,12.6086 0.78689,22.8507 7.91252,28.04023 9.30514,6.78023 17.97604,1.71515 26.87059,-4.13689 22.04367,-14.49609 64.97347,0.96528 71.70515,37.47399 0.97241,5.2834 0.85155,13.59859 1.31697,20.74187"
-       style="fill:#ed1b24;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.378;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path1612"
-       inkscape:export-filename="C:\Users\ni\Downloads\annabijani-favicon-2.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600" />
-    <path
-       d="m 76.203068,305.24146 c 22.096443,43.64268 93.285422,48.68109 118.966172,10.47388 16.35143,-24.33194 15.72401,-49.74235 -1.51563,-69.44605 -7.7811,-8.88694 -17.22506,-15.61086 -28.63575,-10.01702 -10.33379,5.06793 -9.27164,15.6518 -7.86282,26.26629 3.48216,26.31421 -28.82633,58.80588 -64.37721,49.27408 -5.148226,-1.38009 -9.987073,-3.91038 -16.574762,-6.55118"
-       style="fill:#0018a8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.378;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path1614"
-       inkscape:export-filename="C:\Users\ni\Downloads\annabijani-favicon-2.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600" />
-    <path
-       d="m 115.68108,169.17023 c -48.815528,3.1591 -81.436037,66.63479 -56.401719,105.26865 15.944063,24.60081 39.554977,34.01391 64.449789,25.90901 11.23041,-3.6607 21.12578,-9.70068 20.46846,-22.39173 -0.5971,-11.49414 -10.74629,-14.67854 -21.05996,-17.5562 -25.564288,-7.14359 -42.73758,-49.62445 -19.9966,-78.56519 3.293,-4.19114 7.52191,-7.64557 12.54003,-12.66454"
-       style="fill:#fedf00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.378;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path1614-6"
-       inkscape:export-filename="C:\Users\ni\Downloads\annabijani-favicon-2.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600" />
+    <g
+       id="g850"
+       transform="translate(6.6057733,-16.5)">
+      <path
+         d="m 349.25672,266.36116 c 0,-61.96164 -50.23519,-112.1898 -112.19303,-112.1898 -61.9635,0 -112.19309,50.22816 -112.19309,112.1898 0,61.9617 50.22959,112.18981 112.19309,112.18981 61.95784,0 112.19303,-50.22811 112.19303,-112.18981"
+         style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.378;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path1610"
+         inkscape:export-filename="C:\Users\ni\Downloads\annabijani-favicon-2.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <g
+         id="g841"
+         transform="translate(96.061751,18)">
+        <ellipse
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.1909;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path43916"
+           cx="141.00191"
+           cy="-248.36116"
+           transform="scale(1,-1)"
+           rx="132.2702"
+           ry="132.18588" />
+        <ellipse
+           style="fill:#ff9800;fill-opacity:1;stroke:#ffffff;stroke-width:0.903;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path2205"
+           cx="141.00191"
+           cy="-248.36116"
+           transform="scale(1,-1)"
+           rx="120.11937"
+           ry="120.16215" />
+        <path
+           d="m 212.70025,283.2514 c 29.55169,-38.9171 3.44978,-108.78419 -41.75339,-115.75062 -28.78867,-4.43655 -56.84163,2.94575 -66.05189,33.63142 -3.787,12.6086 0.78689,22.8507 7.91252,28.04023 9.30514,6.78023 17.97604,1.71515 26.87059,-4.13689 22.04367,-14.49609 64.97347,0.96528 71.70515,37.47399 0.97241,5.2834 0.85155,13.59859 1.31697,20.74187"
+           style="fill:#ed1b24;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.378;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1612"
+           inkscape:export-filename="C:\Users\ni\Downloads\annabijani-favicon-2.png"
+           inkscape:export-xdpi="600"
+           inkscape:export-ydpi="600" />
+        <path
+           d="m 76.203068,305.24146 c 22.096443,43.64268 93.285422,48.68109 118.966172,10.47388 16.35143,-24.33194 15.72401,-49.74235 -1.51563,-69.44605 -7.7811,-8.88694 -17.22506,-15.61086 -28.63575,-10.01702 -10.33379,5.06793 -9.27164,15.6518 -7.86282,26.26629 3.48216,26.31421 -28.82633,58.80588 -64.37721,49.27408 -5.148226,-1.38009 -9.987073,-3.91038 -16.574762,-6.55118"
+           style="fill:#0018a8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.378;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1614"
+           inkscape:export-filename="C:\Users\ni\Downloads\annabijani-favicon-2.png"
+           inkscape:export-xdpi="600"
+           inkscape:export-ydpi="600" />
+        <path
+           d="m 115.68108,169.17023 c -48.815528,3.1591 -81.436037,66.63479 -56.401719,105.26865 15.944063,24.60081 39.554977,34.01391 64.449789,25.90901 11.23041,-3.6607 21.12578,-9.70068 20.46846,-22.39173 -0.5971,-11.49414 -10.74629,-14.67854 -21.05996,-17.5562 -25.564288,-7.14359 -42.73758,-49.62445 -19.9966,-78.56519 3.293,-4.19114 7.52191,-7.64557 12.54003,-12.66454"
+           style="fill:#fedf00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.378;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1614-6"
+           inkscape:export-filename="C:\Users\ni\Downloads\annabijani-favicon-2.png"
+           inkscape:export-xdpi="600"
+           inkscape:export-ydpi="600" />
+      </g>
+    </g>
     <text
        xml:space="preserve"
        transform="matrix(0.75000003,0,0,-0.75000003,-1.759636e-5,399.99998)"
@@ -122,26 +130,26 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.0644px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#feffff;fill-opacity:1;stroke:none;stroke-width:0.397508;stroke-miterlimit:4;stroke-dasharray:none"
-       x="300.20767"
-       y="-147.80925"
+       x="151.7002"
+       y="-60.799751"
        id="text9279"
        transform="scale(0.95092359,-1.0516092)"><tspan
          sodipodi:role="line"
          id="tspan9277"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.0644px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#feffff;fill-opacity:1;stroke-width:0.397508;stroke-miterlimit:4;stroke-dasharray:none"
-         x="300.20767"
-         y="-147.80925">SC-Voice</tspan></text>
+         x="151.7002"
+         y="-60.799751">SC-Voice</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;fill:#ff7f2a;fill-opacity:1;stroke:none;stroke-width:0.378;stroke-miterlimit:4;stroke-dasharray:none"
-       x="104.43619"
-       y="-38.460789"
+       x="104.00391"
+       y="-21.960789"
        id="text26057"
        transform="scale(1,-1)"><tspan
          sodipodi:role="line"
          id="tspan26055"
          style="fill:#ff7f2a;stroke-width:0.378;stroke-miterlimit:4;stroke-dasharray:none"
-         x="104.43619"
-         y="-38.460789">SuttaCentral Voice</tspan></text>
+         x="104.00391"
+         y="-21.960789">SuttaCentral Voice</tspan></text>
   </g>
 </svg>
