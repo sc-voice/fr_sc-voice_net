@@ -3,7 +3,7 @@ title: Bienvenue à ${appName} !
 description: Étude des textes bouddhistes anciens.
 img: sc-voice-icon.svg
 img-alt: Le logo de FR.SC-Voice.net
-category: 1. General
+link: /img/sc-voice-icon.svg
 order: 1
 ---
 ### fr.sc-voice.net
