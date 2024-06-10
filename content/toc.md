@@ -1,15 +1,12 @@
 ---
 title: Bienvenue à ${appName} !
 description: Étude des textes bouddhistes anciens.
-img: pannabijani.png
+img: sc-voice-icon.svg
 img-alt: Le logo de FR.SC-Voice.net
 category: 1. General
 order: 1
 ---
 ### fr.sc-voice.net
-
-Écrit « Paññābījāni » en pāḷi, ce terme composé signifie « Graines de Sagesse ». 
-
 Ce site est une application web dédiée à l'étude des textes bouddhistes anciens, notamment les suttas, discours doctrinaux du Bouddha et de ses premiers disciples.
 
 L'utilisation de ce site est simple mais nécessite un petit apprentissage initial, que vous pouvez effectuer grâce aux tutoriels affichés automatiquement. L'interface se compose principalement de la loupe et des paramètres situés en haut à droite. 
