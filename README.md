@@ -1,1 +1,1 @@
-Site dédié à l'étude et la traduction des Textes Bouddhistes Anciens.
+Étude des textes bouddhistes anciens avec SC Voice.
