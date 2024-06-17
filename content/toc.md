@@ -20,9 +20,9 @@ summary:hover {
 SuttaCentral Voice structure les informations à l'aide de « cartes ».
 
 * Les <b>cartes wiki</b> montrent le contenu wiki d'aide à l'utilisation de ce site.
-* Les <b>cartes de recherche</b> permettent de trouver du contenu Dhamma.
-* Les <b>cartes des suttas</b> vous présentent les textes individuels des suttas.
-* Les <b>cartes graphiques</b> vous présentent des liens entre les suttas.
+* Les <b>cartes de recherche</b> permettent de trouver du contenu Dhamma. Il s'agit du boutton « loupe » en haut à droite.
+* Les <b>cartes de sutta</b> vous présentent les textes individuels de sutta. Ces cartes s'ouvrent lorsque vous cliquez sur le lien d'un sutta, lors de vos recherches. 
+* Les <b>cartes graphiques</b> vous montrent les liens entre les suttas. Ce type de cartes s'ouvrent depuis les cartes de sutta. 
 
 Ceci est la carte d'accueil wiki.  Cliquez sur
 <a href="#/wiki/toc" class="scv-icon-btn v-btn v-btn--icon v-btn--round v-btn--router theme--dark v-size--default">
