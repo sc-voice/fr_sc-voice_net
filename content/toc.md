@@ -21,7 +21,7 @@ SuttaCentral Voice structure les informations à l'aide de « cartes ».
 
 * Les <b>cartes wiki</b> montrent le contenu wiki d'aide à l'utilisation de ce site.
 * Les <b>cartes de recherche</b> permettent de trouver du contenu Dhamma.
-* Les <b>cartes des suttas</b> vous présentent les textes individuels de suttas.
+* Les <b>cartes des suttas</b> vous présentent les textes individuels des suttas.
 * Les <b>cartes graphiques</b> vous présentent des liens entre les suttas.
 
 Ceci est la carte d'accueil wiki.  Cliquez sur
