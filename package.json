@@ -1,7 +1,7 @@
 {
-  "name": "ebt-site",
+  "name": "fr_sc-voice_net",
   "version": "2.4.382",
-  "description": "Site template for EBT-Vue3 applications",
+  "description": "SC-Voice.net (FR)",
   "main": "src/index.mjs",
   "private": false,
   "dependencies": {
