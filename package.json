@@ -1,18 +1,17 @@
 {
   "name": "fr_sc-voice_net",
-  "version": "2.6.33",
+  "version": "2.7.1",
   "description": "SC-Voice.net (FR)",
   "main": "src/index.mjs",
   "private": false,
   "dependencies": {
-    "ebt-vue3": "^2.23.54",
+    "ebt-vue3": "^2.24.1",
     "vue": "^3.4.21",
     "vuetify": "^3.5.11",
     "webfontloader": "^1.0.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",
-    "cmark-gfm": "^0.9.0",
     "esm": "^3.2.25",
     "json": "^11.0.0",
     "markdown-it": "^13.0.1",
