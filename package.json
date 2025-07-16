@@ -1,11 +1,11 @@
 {
   "name": "fr_sc-voice_net",
-  "version": "2.7.314",
+  "version": "2.7.315",
   "description": "SC-Voice.net (FR)",
   "main": "src/index.mjs",
   "private": false,
   "dependencies": {
-    "ebt-vue3": "^2.26.150",
+    "ebt-vue3": "^2.26.151",
     "vue": "^3.4.21",
     "vuetify": "^3.5.11",
     "webfontloader": "^1.0.0"
