@@ -1,6 +1,6 @@
 {
   "name": "fr_sc-voice_net",
-  "version": "2.9.49",
+  "version": "2.9.50",
   "description": "SC-Voice.net (FR)",
   "main": "src/index.mjs",
   "private": false,
