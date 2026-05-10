@@ -13,7 +13,7 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",
     "json": "^11.0.0",
-    "vite": "^5.2.4",
+    "vite": "^6.3.5",
     "vite-plugin-vuetify": "^2.0.3",
     "vue-cli-plugin-vuetify": "~2.5.1"
   },
