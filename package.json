@@ -1,6 +1,6 @@
 {
   "name": "fr_sc-voice_net",
-  "version": "2.9.381",
+  "version": "2.10.0",
   "description": "SC-Voice.net (FR)",
   "main": "src/index.mjs",
   "private": false,
@@ -13,7 +13,7 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",
     "json": "^11.0.0",
-    "vite": "^5.2.4",
+    "vite": "^6.3.5",
     "vite-plugin-vuetify": "^2.0.3",
     "vue-cli-plugin-vuetify": "~2.5.1"
   },
